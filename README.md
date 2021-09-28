@@ -12,5 +12,5 @@ Dentro de ese script se llamaba a otro "counter.js", este último alojado en una
 Actualmente (como pueden ver de hecho) no tengo tantos conocimientos para ir desarmando parte por parte el script y saber a ciencia cierta qué hace. Por eso lo dejo aquí en Git Hub como constancia de mi hallazgo.
 
 Webs con los Script Maliciosos:
-- https://cleverjump.org/counter.js
-- https://themera.net/embed/themera.js?id=76847
+* https://cleverjump.org/counter.js
+* https://themera.net/embed/themera.js?id=76847
